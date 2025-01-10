@@ -1,0 +1,17 @@
+job_desc = """
+We are seeking a skilled and detail-oriented Data Analyst to join our team. The ideal candidate will be proficient in Python, SQL, and popular Python libraries for data analysis (such as Pandas, NumPy, and Matplotlib). A strong command of Excel and familiarity with various data visualization and reporting tools are essential.
+
+Key Responsibilities:
+Extract, clean, and analyze large datasets to generate actionable insights.
+Design and develop reports, dashboards, and visualizations to support business decision-making.
+Write efficient SQL queries to retrieve and manipulate data from relational databases.
+Leverage Python libraries to perform statistical analysis and data modeling.
+Collaborate with cross-functional teams to identify data needs and optimize analytical processes.
+Maintain and improve data quality and accuracy across all analysis and reporting.
+Requirements:
+Proficiency in Python and SQL for data analysis and automation.
+Strong knowledge of Excel (including advanced functions, pivot tables, and charts).
+Experience with Python data libraries (e.g., Pandas, NumPy, Matplotlib, Seaborn).
+Familiarity with data visualization tools (e.g., Tableau, Power BI) is a plus.
+Strong analytical and problem-solving skills with keen attention to detail.
+Excellent communication skills for presenting findings to technical and non-technical stakeholders."""

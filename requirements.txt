@@ -1,0 +1,5 @@
+requests~=2.32.3
+pypdf2
+google.generativeai
+google~=3.0.0
+streamlit

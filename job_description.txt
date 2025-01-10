@@ -1,0 +1,37 @@
+We are seeking a detail-oriented and analytical Data Analyst to join our dynamic team. The ideal candidate will have strong analytical skills, the ability to work with large datasets, and the capacity to present complex data in a clear and actionable way. As a Data Analyst, you will be responsible for collecting, processing, and analyzing data to support decision-making across various business functions.
+
+Key Responsibilities:
+Collect, clean, and organize large datasets from multiple sources to ensure data accuracy and completeness.
+Analyze data to identify trends, patterns, and insights that drive business decisions.
+Create and maintain regular reports and dashboards for business stakeholders using Excel, SQL, or Python.
+Collaborate with cross-functional teams to understand business needs and deliver data-driven solutions.
+Perform statistical analysis and build predictive models to support business initiatives.
+Develop and automate reporting processes and workflows to improve efficiency.
+Present data findings to non-technical stakeholders in a clear, concise manner.
+Assist with the creation of key performance indicators (KPIs) and other metrics to measure business performance.
+Stay updated on industry trends and best practices related to data analysis.
+Qualifications:
+Bachelor's degree in Data Science, Statistics, Mathematics, Computer Science, or a related field.
+Proven experience in data analysis, with strong proficiency in SQL and Excel.
+Familiarity with data visualization tools like Power BI or Tableau.
+Experience using Python (e.g., pandas, NumPy) for data analysis is a plus.
+Knowledge of statistical methods and data modeling techniques.
+Strong attention to detail, analytical thinking, and problem-solving skills.
+Excellent communication skills, with the ability to explain complex data concepts to non-technical audiences.
+Ability to work independently and in a team environment.
+Preferred Skills:
+python
+sql
+tableau
+powerbi
+streamlit
+Experience with ETL processes and data warehousing.
+Understanding of cloud platforms such as AWS or Google Cloud.
+Experience in creating interactive dashboards and reports.
+Familiarity with machine learning concepts is a plus.
+Benefits:
+Competitive salary and performance bonuses.
+Health and wellness benefits (medical, dental, vision).
+Opportunity to work with cutting-edge technologies and grow in your career.
+Flexible working hours and the option for remote work.
+Professional development and training opportunities.
