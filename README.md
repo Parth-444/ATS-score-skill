@@ -1,18 +1,22 @@
 # ATS Score Calculator
-
-A Streamlit-based app for calculating ATS scores and extracting resume skills to match job descriptions.
-
+An intuitive tool to analyze resumes and job descriptions, calculate ATS (Applicant Tracking System) scores, and optimize resumes for better job application results.
+## Table of Contents
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Setup Instructions](#setup-instructions)
+- [How to Use](#how-to-use)
+- [Screenshots](#screenshots)
+- [Project Workflow](#project-workflow)
+- [Use Cases](#use-cases)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+- [License](#license)
 ## Features
-- Extracts skills from resumes.
-- Compares resume skills with job description skills.
-- Provides an ATS score.
-
-## Technologies Used
-- **Python**: Backend logic.
-- **Streamlit**: Frontend interface.
-- **Gemini API**: Text processing and analysis.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Parth-444/ATS-score-skill.git
+- Extract skills from resumes.
+- Analyze job descriptions and compare them with resumes.
+- Calculate ATS scores for better job application insights.
+- User-friendly Streamlit interface for smooth interaction.
+## Tech Stack
+- **Programming Language**: Python
+- **Libraries**: Streamlit, PyPDF2, OpenAI Gemini API, Pandas
+- **Version Control**: Git and GitHub
