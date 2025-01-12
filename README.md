@@ -1,12 +1,12 @@
 # ATS Score Calculator
 
 ## Project Definition
-The ATS Score Calculator is a Python-based tool designed to analyze resumes and job descriptions, extract relevant skills, and calculate an ATS (Applicant Tracking System) score. This score helps candidates optimize their resumes for better visibility and compatibility with job requirements in ATS software commonly used by recruiters.
+The ATS Score Skill is a Python-based tool designed to analyze resumes and job descriptions, extract relevant skills, and calculate an ATS (Applicant Tracking System) score. This score helps candidates optimize their resumes for better visibility and compatibility with job requirements in ATS software commonly used by recruiters.
 
 ---
 
 ## Project Overview
-The ATS Score Calculator simplifies the job application process by:
+The ATS Score Skill simplifies the job application process by:
 - Extracting skills from resumes (PDF format) and job descriptions using the Gemini API.
 - Comparing extracted skills to determine compatibility.
 - Providing a user-friendly Streamlit interface for interaction.
