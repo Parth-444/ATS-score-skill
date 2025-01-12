@@ -147,5 +147,4 @@ Contributions are welcome! To contribute:
 
 ---
 
-**Note:** Feel free to customize this README template as per your project’s evolving needs!
 
